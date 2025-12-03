@@ -1,0 +1,3 @@
+hello file2 
+
+lets make changes to see diff command
